@@ -6,7 +6,7 @@ import io
 # Example: word_list = ["phonetics", "syntax", "pragmatics", ...]
 word_list = [
     "languages", "yelling", "human being", "thesis", "inexcusable", 
-    "hijacking", "joful", "demonstrate", "boisterous","The doll at the top costs lots"
+    "hijacking", "youngster", "strength", "boisterous","A small squerrel wore a golden crown."
 ]
 
 # --- App Interface ---
