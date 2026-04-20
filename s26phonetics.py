@@ -5,14 +5,14 @@ import io
 # 1. Your Wordlist (You can add your 10 words here)
 # Example: word_list = ["phonetics", "syntax", "pragmatics", ...]
 word_list = [
-    "Apple", "Banana", "Cherry", "Date", "Elderberry", 
-    "Fig", "Grape", "Honeydew", "Iced-tea", "Jujube"
+    "languages", "yelling", "human being", "thesis", "inexcusable", 
+    "hijacking", "joful", "demonstrate", "boisterous","The doll at the top costs lots"
 ]
 
 # --- App Interface ---
 st.set_page_config(page_title="Listening Quiz", layout="centered")
 
-st.title("🎧 Vocabulary Listening Quiz")
+st.title("🎧 Transcription Quiz")
 st.markdown("""
 ### Instructions
 1. Click the **Play** button for each number.
