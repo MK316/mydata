@@ -5,8 +5,8 @@ import io
 # 1. Your Wordlist (You can add your 10 words here)
 # Example: word_list = ["phonetics", "syntax", "pragmatics", ...]
 word_list = [
-    "languages", "yelling", "human being", "thesis", "inexcusable", 
-    "hijacking", "youngster", "strength", "boisterous","A small squerrel wore a golden crown."
+    "phonetics", "human being", "inexcusable", 
+    "hijacking", "boisterous","A faint pizza smell followed a crowned sea otter."
 ]
 
 # --- App Interface ---
